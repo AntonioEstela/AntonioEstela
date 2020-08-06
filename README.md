@@ -1,5 +1,5 @@
 ### Hi there I'm currently working in this README
-## Meanwhile, why not take a look at my statistics!👋
+### Meanwhile, why not take a look at my statistics!👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AntonioEstela)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioEstela)](https://github.com/anuraghazra/github-readme-stats)
 
